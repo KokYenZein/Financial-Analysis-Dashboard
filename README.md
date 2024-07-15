@@ -1,6 +1,6 @@
 # Power BI Dashboard for Financial Analysis
 
-![Financial Analysis Dashboard](Financial Analysis Dashboard.png)
+![Financial Analysis Dashboard](Financial_Analysis_Dashboard.png)
 
 ## What is Power BI?
 
